@@ -62,7 +62,7 @@ export function App() {
   return (
     <div className="mx-auto max-w-6xl my-12 space-y-6 px-5 md:px-5">
       <div className='flex flex-grow '>
-        <img src={logo} /> <div className='w-full' ></div> <img src={franco} />
+        <img src={franco} /> <div className='w-full' ></div> <img src={logo} />
       </div>
 
     <div className='space-y-1'>      

@@ -102,7 +102,7 @@ export function NewNoteCard ({ onNoteCreated }:NewNoteCardProps) {
             Grave uma nota em áudio que será convertida para texto automaticamente.
           </p>
 
-            <div className='left-0 top-0 bg-slate-100 hover:bg-slate-200 p-1.5 text-slate-600 p-2'>
+            <div className='left-0 top-0 bg-slate-100 hover:bg-slate-200 text-slate-600 p-2'>
                 <ArrowUpRight className='size-5'/>
             </div>
 
